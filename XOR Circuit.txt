@@ -1,0 +1,5 @@
+"""
+Bishal Nath
+bishal.nath66@login.cuny.edu		
+"""
+out = ((in1 and not in2) or (not in1 and in2) or (in1 and in2) and not (in1 and in2))
